@@ -40,7 +40,7 @@ O projeto inclui seções como página inicial, sobre, contato e localização, 
 ## 📁 Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
-
+```
 Projeto_pagina_royalvalet/
 ├── assets/
 │ └── [imagens das capturas de tela]
@@ -57,7 +57,7 @@ Projeto_pagina_royalvalet/
 ├── contato.php
 ├── onde_estamos.php
 └── texte!!!.txt
-
+```
 
 ## ⚙️ Como Executar o Projeto
 
